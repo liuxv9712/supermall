@@ -1,0 +1,14 @@
+@import "./normalize.css";
+
+/* 在这里定义变量 */
+:root {
+    --color-text: #666666;
+    /* 文字高亮的颜色 */
+    --color-high-text:#ff5777;
+    --color-tint:#ff8198;
+    --color-background:#fff;
+    --font-size:14px;
+    --line-height:1.5;
+}
+
+
